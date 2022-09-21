@@ -1,2 +1,2 @@
 # ci-cd-project-for-beginner-docker
-ci-cd-project-for-beginner
+Simple ci/cd project to build docker image and push it to docker hub
